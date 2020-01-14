@@ -5,7 +5,7 @@ layout: base
 
 ## Tarifs
 
-|                   |                   |                       | Préférentiel (avant 31 mars)                                              | Régulier                                                              |
+|                   |                   |                       | Préférentiel (avant {{ site.data.dates.fin_preferentiel }} )                                              | Régulier                                                              |
 |----------------   |------------------ |-------------------    |------------------------------------------------------------------------   |--------------------------------------------------------------------   |
 | Académique        | Avec hébergement  | Occupation simple     | {{ site.data.tarifs.academique.hebergement.simple.preferentiel }}$        | {{ site.data.tarifs.academique.hebergement.simple.regulier }}$        |
 |                   |                   | Occupation double     | {{ site.data.tarifs.academique.hebergement.double.preferentiel }}$        | {{ site.data.tarifs.academique.hebergement.double.regulier }}$        |
