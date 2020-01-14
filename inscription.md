@@ -5,13 +5,13 @@ layout: base
 
 ## Tarifs
 
-|                   |                   |                    | Préférentiel (avant 31 mars)  | Régulier  |
-|----------------   |------------------ |------------------- |-------------- |---------- |
-| Académique        | Avec hébergement  | Occupation simple  | 695$          | 810$      |
-|                   |                   | Occupation double  | 495$          | 585$      |
-|                   | Sans hébergement  |                    | 320$          | 370$      |
-| Non-académique    | Avec hébergement  | Occupation simple  | 1750$         | 2050$     |
-|                   | Sans hébergement  | Occupation simple  | 1450$         | 1700$     |
+|                   |                   |                       | Préférentiel (avant 31 mars)                                              | Régulier                                                              |
+|----------------   |------------------ |-------------------    |------------------------------------------------------------------------   |--------------------------------------------------------------------   |
+| Académique        | Avec hébergement  | Occupation simple     | {{ site.data.tarifs.academique.hebergement.simple.preferentiel }}$        | {{ site.data.tarifs.academique.hebergement.simple.regulier }}$        |
+|                   |                   | Occupation double     | {{ site.data.tarifs.academique.hebergement.double.preferentiel }}$        | {{ site.data.tarifs.academique.hebergement.double.regulier }}$        |
+|                   | Sans hébergement  |                       | {{ site.data.tarifs.academique.sans_hebergement.preferentiel }}$          | {{ site.data.tarifs.academique.sans_hebergement.regulier }}$          |
+| Non-académique    | Avec hébergement  | Occupation simple     | {{ site.data.tarifs.non_academique.hebergement.simple.preferentiel }}$    | {{ site.data.tarifs.non_academique.hebergement.simple.regulier }}$    |
+|                   | Sans hébergement  | Occupation simple     | {{ site.data.tarifs.non_academique.sans_hebergement.preferentiel }}$      | {{ site.data.tarifs.non_academique.sans_hebergement.regulier }}$      |
 
 **Notes:** 
 * Le forfait avec hébergement comprend 5 nuités et tous les repas, du dimanche au vendredi.
