@@ -2,9 +2,13 @@
 layout: base
 ---
 
-L’école de printemps se tiendra du 11 au 15 mai 2020 à Orford Musique.
-
-Vous pouvez vous inscrire dès maintenant : [inscription](inscription)
+<section class="special box">
+    <p>L’école se tiendra du 11 au 15 mai 2020 à Orford Musique.  
+        <ul class="actions stacked">
+            <li><a href="inscription" class="button primary">Inscrivez-vous</a></li>
+        </ul>
+    </p>
+</section>
 
 ## Pourquoi participer
 L’école printanière de Calcul Québec est organisée chaque année afin de former les étudiants aux cycles supérieurs, les stagiaires postdoctoraux, les chercheurs et les professionnels du secteur privé à une utilisation efficace des ressources de calcul informatique de pointe (CIP). Cette école est également une occasion unique d’avoir un accès privilégié aux analystes de Calcul Québec qui seront sur place pour la durée de l’événement.
