@@ -3,9 +3,9 @@ layout: base
 ---
 
 <section class="special box">
-    <p>L’école se tiendra du 11 au 15 mai 2020 à Orford Musique.  
+    <p><h3>Du 11 au 15 mai 2020 à Orford Musique</h3>
         <ul class="actions stacked">
-            <li><a href="inscription" class="button primary">Inscrivez-vous</a></li>
+            <li><a href="inscription" class="button">Inscrivez-vous</a></li>
         </ul>
     </p>
 </section>
