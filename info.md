@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-# Logistique
+# Informations générales
 
 ## Dates
 
