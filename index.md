@@ -3,7 +3,7 @@ layout: base
 ---
 
 <section class="special box">
-    <p><h3>Du 11 au 15 mai 2020 à Orford Musique</h3>
+    <p><h3>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h3>
         <ul class="actions stacked">
             <li><a href="inscription" class="button">Inscrivez-vous</a></li>
         </ul>

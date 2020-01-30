@@ -5,7 +5,7 @@ layout: base
 
 ## Dates
 
-Du {{ site.data.dates.ecole_debut }} au {{ site.data.dates.ecole_debut }}.
+Du {{ site.data.dates.ecole_date_btw_str }}.
 
 ## Endroit
 
