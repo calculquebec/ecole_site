@@ -1,0 +1,23 @@
+---
+url: https://www.eventbrite.ca/e/inscription-ecole-de-printemps-calcul-quebec-2020-89289951649
+tarifs:
+  academique:
+    hebergement:
+      simple:
+        preferentiel : 595
+        regulier: 810
+      double:
+        preferentiel : 495
+        regulier: 585
+    sans_hebergement:
+      preferentiel : 320
+      regulier: 370
+
+  non_academique:
+    hebergement:
+      simple:
+        preferentiel : 1750
+        regulier: 2050
+    sans_hebergement:
+      preferentiel : 1450
+      regulier: 1700
