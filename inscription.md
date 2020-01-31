@@ -14,7 +14,7 @@ layout: base
 |                   | Sans hébergement  |                       | {{ site.data.inscription.tarifs.non_academique.sans_hebergement.preferentiel }}$      | {{ site.data.inscription.tarifs.non_academique.sans_hebergement.regulier }}$      |
 
 **Notes:**
-* Le forfait avec hébergement comprend 5 nuités et tous les repas, du dimanche au vendredi.
+* Le forfait avec hébergement comprend 5 nuités, du dimanche au vendredi et les repas, du lundi au vendredi.
 * Le forfait sans hébergement comprend seulement les repas du midi, du lundi au vendredi.
 
 ## Inscription
