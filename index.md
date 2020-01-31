@@ -3,22 +3,32 @@ layout: base
 ---
 
 <section class="special box">
-    <p><h3>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h3>
+    <p>
+        <h3>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h3>
         <ul class="actions stacked">
             <li><a href="{{site.data.inscription.url}}" class="button">Inscrivez-vous</a></li>
         </ul>
     </p>
 </section>
 
-<p>L’école printanière de Calcul Québec est organisée chaque année afin de former les étudiants aux cycles supérieurs, les stagiaires postdoctoraux, les chercheurs et les professionnels du secteur privé à une utilisation efficace des ressources de calcul informatique de pointe (CIP). Cette école est également une occasion unique d’avoir un accès privilégié aux analystes de Calcul Québec qui seront sur place pour la durée de l’événement.</p>
+<br>
+
+<section id="simply">
+    <div class="inner">
+        <span class="image main"><img src="images/edition2018.jpg" alt="" /></span>
+        <p>
+            Avoir des connaissances en calcul informatique de pointe (CIP) est devenu un outil incontournable pour l’ensemble de la communauté de recherche. Cette école vous permettra d’acquérir des connaissances théoriques et pratiques qui pourront être appliquées directement à vos travaux de recherche et qui vous permettront de vous démarquer. Cette école représente également une occasion unique d’avoir un accès privilégié aux analystes de Calcul Québec qui seront sur place pour la durée de l’événement.
+        </p>
+    </div>
+</section>
 
 <hr>
 
 <section id="temoignages">
-    <blockquote class="">
-        {{ site.data.temoignages[0].quote }}
+    <blockquote>
+        {{ site.data.temoignages.first.quote }}
     </blockquote>
-    – {{ site.data.temoignages[0].person }}
+    – {{ site.data.temoignages.first.person }}
     <br /><br />
     <section class="special">
         <ul class="special actions">
