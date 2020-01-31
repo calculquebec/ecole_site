@@ -18,7 +18,7 @@ Vous devez choisir une seule de ces deux options. Chacune des deux séquences se
 Les étudiants doivent apporter un ordinateur portatif pour être en mesure d’effectuer ces exercices et ainsi profiter pleinement des bénéfices de cette école. Les étudiants devront également télécharger à l’avance les fichiers et logiciels qui seront utilisés lors de l’école. Un courriel sera envoyé à cet effet.
 
 **Notes :**
-* Les cours sont données en français, à l'exception de certains cours qui seront donnés en anglais (selon la langue privilégiée du formateur).
+* Les cours sont donnés en français, à l'exception de certains cours qui seront donnés en anglais (selon la langue privilégiée du formateur).
 * Les questions pourront cependant être posées en français ou en anglais dans tous les cas.
 
 
