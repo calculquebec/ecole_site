@@ -17,6 +17,10 @@ layout: base
 * Le forfait avec hébergement comprend 5 nuités, du dimanche au vendredi et les repas, du lundi au vendredi.
 * Le forfait sans hébergement comprend seulement les repas du midi, du lundi au vendredi.
 
-## Inscription
+<hr>
 
-Veuillez vous inscrire via [Eventbrite]({{ site.data.inscription.url }})
+<section class="special">
+<ul class="actions stacked">
+    <li><a href="{{site.data.inscription.url}}" class="button">Inscrivez-vous</a></li>
+</ul>
+</section>
