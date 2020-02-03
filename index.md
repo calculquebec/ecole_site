@@ -4,9 +4,9 @@ layout: base
 
 <section class="special box">
     <p>
-        <h3>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h3>
+        <h2>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h2>
         <ul class="actions stacked">
-            <li><a href="{{site.data.inscription.url}}" class="button">Inscrivez-vous</a></li>
+            <li><a href="{{site.data.inscription.url}}" class="button primary">Inscrivez-vous</a></li>
         </ul>
     </p>
 </section>
