@@ -1,13 +1,14 @@
 # Site de l'école de printemps de Calcul Québec
 
-## Build
+## Build and Serve
+In a terminal, run:
 ```bash
-jekyll build
+jekyll serve --watch --incremental --livereload --trace
 ```
 
-## Serve
+Then open the site locally :
 ```bash
-jekyll serve
+google-chrome "http://localhost:4000"
 ```
 
 ## Update information
