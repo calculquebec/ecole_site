@@ -27,7 +27,4 @@ Du {{ site.data.dates.ecole_date_btw_str }}.
 ### Où se déroule l'école?
 Durant toute la semaine, les cours sont donnés au centre Orford Musique. Les participants qui choisissent un [tarif avec hébergement](inscription) sont logés et nourris sur place.
 
-[Orford Musique,
-3165 chemin du Parc
-Orford (Québec) J1X 7A2
-Canada](https://www.google.ca/maps/place/Orford+Musique/@45.323378,-72.1830031,18.25z/data=!4m8!1m2!3m1!2sOrford+Musique!3m4!1s0x4cb636b8e412efd7:0x4ab52a5af677f699!8m2!3d45.323442!4d-72.182062)
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1402.6298503517914!2d-72.1830031!3d45.323378!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb636b8e412efd7%3A0x4ab52a5af677f699!2sOrford%20Musique!5e0!3m2!1sen!2sca!4v1580842591577!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
