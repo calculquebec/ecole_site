@@ -19,8 +19,10 @@ layout: base
 
 <hr>
 
+{%if site.data.dates.ecole_date_btw_str %}
 <section class="special">
 <ul class="actions stacked">
     <li><a href="{{site.data.inscription.url}}" class="button">Inscrivez-vous</a></li>
 </ul>
 </section>
+{%endif%}

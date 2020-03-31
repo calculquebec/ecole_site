@@ -2,6 +2,7 @@
 layout: base
 ---
 
+{%if site.data.dates.ecole_date_btw_str %}
 <section class="special box">
     <p>
         <h1>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h1>
@@ -10,6 +11,7 @@ layout: base
         </ul>
     </p>
 </section>
+{%endif%}
 
 <br>
 
