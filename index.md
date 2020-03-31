@@ -2,16 +2,22 @@
 layout: base
 ---
 
-{%if site.data.dates.ecole_date_btw_str %}
 <section class="special box">
     <p>
-        <h1>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h1>
-        <ul class="actions stacked">
-            <li><a href="{{site.data.inscription.url}}" class="button primary">Inscrivez-vous</a></li>
-        </ul>
+        {%if site.data.dates.ecole_date_btw_str %}
+            <h1>Du {{ site.data.dates.ecole_date_btw_str }} à Orford Musique</h1>
+            <ul class="actions stacked">
+                <li><a href="{{site.data.inscription.url}}" class="button primary">Inscrivez-vous</a></li>
+            </ul>
+        {%else%}
+            <!-- Any other announcement -->
+            <h1>L'édition 2020 est annulée</h1>
+            <ul class="actions stacked">
+                <li><a href="https://www.calculquebec.ca/communiques/covid-19-statut-des-activites-de-calcul-quebec-au-27-mars-2020" class="button primary">Communiqué officiel</a></li>
+            </ul>
+        {%endif%}
     </p>
 </section>
-{%endif%}
 
 <br>
 
