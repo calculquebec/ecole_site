@@ -11,9 +11,9 @@ layout: base
             </ul>
         {%else%}
             <!-- Any other announcement -->
-            <h1>L'édition 2020 est annulée</h1>
+            <h1>L'édition 2021 sera virtuelle du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str}}!</h1>
             <ul class="actions stacked">
-                <li><a href="https://www.calculquebec.ca/communiques/covid-19-statut-des-activites-de-calcul-quebec-au-27-mars-2020" class="button primary">Communiqué officiel</a></li>
+                <li><a href="https://www.calculquebec.ca/nouvelle/ecole-de-printemps-2021-formule-virtuelle/" class="button primary">Communiqué officiel et inscription</a></li>
             </ul>
         {%endif%}
     </p>
