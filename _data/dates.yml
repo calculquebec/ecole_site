@@ -1,4 +1,6 @@
 fin_preferentiel: "31 mars"
-ecole_debut: 20200511
-ecole_fin: 20200515
+ecole_debut: 20210504
+ecole_fin: 20210527
+ecole_debut_str: "4 mai"
+ecole_fin_str: "27 mai"
 ecole_date_btw_str:
