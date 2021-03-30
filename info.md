@@ -22,9 +22,9 @@ L’école printanière de Calcul Québec est organisée chaque année afin de f
 
 ### Dates
 
-Du {{ site.data.dates.ecole_date_btw_str }}.
+Du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str }}.
 
-### Où se déroule l'école?
+<!-- ### Où se déroule l'école?
 Durant toute la semaine, les cours sont donnés au centre Orford Musique. Les participants qui choisissent un [tarif avec hébergement](inscription) sont logés et nourris sur place.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1402.6298503517914!2d-72.1830031!3d45.323378!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb636b8e412efd7%3A0x4ab52a5af677f699!2sOrford%20Musique!5e0!3m2!1sen!2sca!4v1580842591577!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1402.6298503517914!2d-72.1830031!3d45.323378!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb636b8e412efd7%3A0x4ab52a5af677f699!2sOrford%20Musique!5e0!3m2!1sen!2sca!4v1580842591577!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> -->
