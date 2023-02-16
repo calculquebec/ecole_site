@@ -11,9 +11,9 @@ layout: base
             </ul>
         {%else%}
             <!-- Any other announcement -->
-            <h1>L'édition 2022 sera virtuelle du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str}}!</h1>
+            <h1>L'édition 2023 sera en personne du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str}}!</h1>
             <ul class="actions stacked">
-                <li><a href="https://www.calculquebec.ca/nouvelle/ecole-de-printemps-2022-les-inscriptions-sont-ouvertes/" class="button primary">Communiqué officiel et inscription</a></li>
+                <li><a href="" class="button primary">Plus de détails à venir</a></li>
             </ul>
         {%endif%}
     </p>
