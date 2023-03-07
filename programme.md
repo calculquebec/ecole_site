@@ -22,8 +22,9 @@ Les étudiants doivent apporter un ordinateur portatif pour être en mesure d’
 * Les questions pourront cependant être posées en français ou en anglais dans tous les cas.
 
 
-## Horaire détaillé (sujet à changements)
+<!-- ## Horaire détaillé (sujet à changements)
 
 Vous aurez plus de détails sur les différents cours en cliquant sur les titres ci-dessous :
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FToronto&amp;src=computecanada.ca_n9fs358pns6kak76tvgrdjcdq8%40group.calendar.google.com&amp;color=%232952A3&amp;src=computecanada.ca_ddcadvoh7lp48l3tgta9p1c64o%40group.calendar.google.com&amp;color=%23AB8B00&amp;mode=agenda&amp;dates={{site.data.dates.ecole_debut}}/{{site.data.dates.ecole_fin}}&amp;showTitle=0&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=1&amp;showTz=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+ -->
