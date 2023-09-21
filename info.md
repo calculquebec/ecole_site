@@ -4,21 +4,22 @@ layout: base
 # Informations générales
 
 ## À propos de Calcul Québec
-[Calcul Québec](https://www.calculquebec.ca/) est un groupement d’universités québécoises réunies autour du calcul informatique de pointe (CIP) dont les membres sont l’École de technologie supérieure, HEC Montréal, Polytechnique Montréal, l’Université Concordia, l’Université Laval, l’Université McGill, l’Université de Montréal, l’Université du Québec à Montréal, l’Université du Québec à Trois-Rivières et l’Université de Sherbrooke.
+[Calcul Québec](https://www.calculquebec.ca/) est un groupement d’universités québécoises réunies autour du calcul informatique de pointe (CIP) dont les membres sont l’Université de Montréal, l’Université de Sherbrooke, l’Université Laval, l’Université McGill, l’École de technologie supérieure, HEC Montréal, l'Institut national de la recherche scientifique, Polytechnique Montréal, l'Université Bishop's,l’Université Concordia, l'Université du Québec à Chicoutimi, l’Université du Québec à Montréal, l’Université du Québec à Trois-Rivières, l'Université du Québec en Abitibi et l'Université TÉLUQ.
 
-En mettant en commun leurs ressources matérielles et humaines de CIP et en les rendant accessibles à l’ensemble des chercheurs et étudiants-chercheurs du Canada, ces universités se sont résolument engagées à collaborer afin de mieux servir les besoins de la recherche et de l’innovation. À cette fin, Calcul Québec dispose de trois composantes essentielles :
+En mettant en commun leurs ressources matérielles et humaines de CIP et en les rendant accessibles à l’ensemble de la communauté de la recherche canadienne, ces universités se sont résolument engagées à collaborer afin de mieux servir les besoins de la recherche et de l’innovation. À cette fin, Calcul Québec dispose de trois composantes essentielles :
 - Des centres de données hébergeant des supercalculateurs à la fine pointe de la technologie;
-- Des équipes de spécialistes hautement qualifiés en CIP;
-- L’expertise et l’excellence des chercheurs universitaires québécois dans toutes les sphères de la connaissance.
+- Des équipes de spécialistes hautement qualifiées en CIP;
+- L’expertise et l’excellence des personnes qui mènent des travaux de recherche en contexte académique québécois.
 
 
 ## À propos de l'école
-L’école printanière de Calcul Québec est organisée chaque année afin de former les étudiants aux cycles supérieurs, les stagiaires postdoctoraux, les chercheurs et les professionnels du secteur privé à une utilisation efficace des ressources de calcul informatique de pointe (CIP). Cette école est également une occasion unique d’avoir un accès privilégié aux analystes de Calcul Québec qui seront sur place pour la durée de l’événement.
+L’école printanière de Calcul Québec est organisée chaque année afin de former la communauté québécoise de la recherche à une utilisation efficace des ressources de calcul informatique de pointe (CIP). Cette école est également une occasion unique d’avoir un accès privilégié aux analystes de Calcul Québec qui seront sur place pour la durée de l’événement.
 
 ### Pour qui?
-* Étudiants aux cycles supérieurs, 
-* Chercheurs,
-* Professionnels du secteur privé.
+* Corps estudiantin des cycles supérieurs,
+* Stagiaires au postdoctorat, 
+* Personnel de recherche des universités et collèges,
+* Scientifiques du secteur privé.
 
 ### Dates
 
