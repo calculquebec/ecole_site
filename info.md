@@ -21,9 +21,10 @@ L’école printanière de Calcul Québec est organisée chaque année afin de f
 * Personnel de recherche des universités et collèges,
 * Scientifiques du secteur privé.
 
+{%if site.data.dates.ecole_date_btw_str %}
 ### Dates
-
 Du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str }}.
+{%endif%}
 
 <!-- ### Où se déroule l'école?
 Durant toute la semaine, les cours sont donnés au centre Orford Musique. Les participants qui choisissent un [tarif avec hébergement](inscription) sont logés et nourris sur place.
