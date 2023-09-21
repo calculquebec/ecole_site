@@ -15,10 +15,10 @@ Vous devez choisir une seule de ces deux options. Chacune des deux séquences se
 | Séquence programmation parallèle (intermédiaire à avancé)     | Apprenez comment optimiser votre code (ou l’un de nos deux projets), et le paralléliser en utilisant plusieurs technologies : MPI, OpenMP, CUDA et OpenACC.   | Compréhension de base de la syntaxe de C ou C++. Aisance à utiliser la ligne de commande et un éditeur en ligne de commande.  |
 
 ## Information complémentaire
-Les étudiants doivent apporter un ordinateur portatif pour être en mesure d’effectuer ces exercices et ainsi profiter pleinement des bénéfices de cette école. Les étudiants devront également télécharger à l’avance les fichiers et logiciels qui seront utilisés lors de l’école. Un courriel sera envoyé à cet effet.
+Vous devrez apporter un ordinateur portatif pour être en mesure d’effectuer ces exercices et ainsi profiter pleinement des bénéfices de cette école. Téléchargez également à l’avance les fichiers et logiciels qui seront utilisés lors de l’école. Un courriel sera envoyé à cet effet.
 
 **Notes :**
-* Les cours sont donnés en français, à l'exception de certains cours qui seront donnés en anglais (selon la langue privilégiée du formateur).
+* Les cours sont donnés en français, à l'exception de certains cours qui seront donnés en anglais (selon la langue privilégiée de la personne enseignante).
 * Les questions pourront cependant être posées en français ou en anglais dans tous les cas.
 
 
