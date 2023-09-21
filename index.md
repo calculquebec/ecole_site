@@ -11,7 +11,7 @@ layout: base
             </ul>
         {%else%}
             <!-- Any other announcement -->
-            <h1>L'édition 2023 sera en personne du {{ site.data.dates.ecole_debut_str }} au {{ site.data.dates.ecole_fin_str}}!</h1>
+            <h1>Les inscriptions pour la prochaine édition débuteront à l'hiver prochain.</h1>
             <ul class="actions stacked">
                 <li><a href="" class="button primary">Plus de détails à venir</a></li>
             </ul>

@@ -3,6 +3,8 @@ layout: base
 ---
 # Inscription
 
+{%if site.data.dates.ecole_date_btw_str %}
+
 ## Tarifs
 
 |                   |                   |                       | Préférentiel (avant {{ site.data.dates.fin_preferentiel }} )                                              | Régulier                                                              |
@@ -19,10 +21,12 @@ layout: base
 
 <hr>
 
-{%if site.data.dates.ecole_date_btw_str %}
 <section class="special">
 <ul class="actions stacked">
     <li><a href="{{site.data.inscription.url}}" class="button">Inscrivez-vous</a></li>
 </ul>
 </section>
+
+{%else%}
+Les détails concernant l'inscription pour la prochaine édition seront disponibles à l'hiver.
 {%endif%}
