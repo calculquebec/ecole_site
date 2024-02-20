@@ -1,17 +1,17 @@
 ---
-url: https://ecolecq2023.eventbrite.ca
+url: https://ecolecq24.eventbrite.com
 tarifs:
   academique:
     hebergement:
       simple:
-        preferentiel : 380
-        regulier: 450
+        preferentiel : 435
+        regulier: 475
       double:
-        preferentiel : 335
-        regulier: 380
+        preferentiel : 385
+        regulier: 425
     sans_hebergement:
-      preferentiel : 310
-      regulier: 370
+      preferentiel : 350
+      regulier: 390
 
   non_academique:
     hebergement:
