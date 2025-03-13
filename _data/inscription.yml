@@ -4,14 +4,14 @@ tarifs:
   academique:
     hebergement:
       simple:
-        preferentiel : 435
-        regulier: 475
+        preferentiel : 450
+        regulier: 500
       double:
-        preferentiel : 385
-        regulier: 425
+        preferentiel : 405
+        regulier: 450
     sans_hebergement:
-      preferentiel : 350
-      regulier: 390
+      preferentiel : 360
+      regulier: 400
 
   non_academique:
     hebergement:
